@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 
+# Windows junk
+*.bat
+
 # C extensions
 *.so
 
